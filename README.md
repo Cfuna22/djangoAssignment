@@ -32,7 +32,7 @@ Created the following visualizations:
 - seaborn
 - sklearn (if applicable)
 
-## ▶️ How to Run
+## ▶️ How to Run. 
 1. Clone the repository or download the project files.
 2. Open the Jupyter notebook (`.ipynb`) or run the Python script (`.py`) in your IDE.
 3. Make sure you have the required libraries installed:
