@@ -6,7 +6,7 @@ This project demonstrates how to:
 - Perform basic data analysis.
 - Visualize the data using **matplotlib** and **seaborn**.
 
-## 🧪 Tasks Performed
+## 🧪 Tasks Performed. 
 
 ### 1. Load and Explore the Dataset
 - Loaded data using `pandas`.
