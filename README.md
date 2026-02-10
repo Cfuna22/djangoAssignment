@@ -15,6 +15,7 @@ This project demonstrates how to:
 - Cleaned data by dropping or filling missing values.
 
 ### 2. Basic Data Analysis
+
 - Descriptive statistics with `.describe()`.
 - Grouped by a categorical column and calculated mean values.
 - Identified patterns and key observations.
