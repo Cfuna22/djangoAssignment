@@ -13,6 +13,7 @@ This project demonstrates how to:
 - Displayed the first few rows with `.head()`.
 - Checked for missing values and data types using `.info()` and `.isnull().sum()`.
 - Cleaned data by dropping or filling missing values.
+- doneeeeee
 
 ### 2. Basic Data Analysis
 
