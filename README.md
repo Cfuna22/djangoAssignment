@@ -8,7 +8,7 @@ This project demonstrates how to:
 
 ## 🧪 Tasks Performed. 
 
-### 1. Load and Explore the Dataset
+### 1. Load and Explore the Dataset,,
 - Loaded data using `pandas`.
 - Displayed the first few rows with `.head()`.
 - Checked for missing values and data types using `.info()` and `.isnull().sum()`.
